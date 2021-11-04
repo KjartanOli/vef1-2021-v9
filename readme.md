@@ -38,7 +38,7 @@ Hægt er að keyra `npm run prettier` til að láta `prettier` laga þær skrá 
 
 Keyra skal `npm run lint` og skila án nokkurra villa.
 
-Leyfilegt er að slökkva á ákveðnum villum *ef ástæða er til*  og skal tilltaka hana.
+Leyfilegt er að slökkva á ákveðnum villum _ef ástæða er til_ og skal tilltaka hana.
 
 ## Útlit
 
@@ -48,18 +48,18 @@ Einnig er myndband sem sýnir virkni, og hvernig eftir að fyrsta fyrirspurn hef
 
 ## Útfærsla
 
-* Nota skal `JavaScript modules`.
-* Gefinn er grunnur og jsdoc á föllum sem mælt er með að útfæra.
-* Ekki er krafa að nota grunn, skrifa má sitt eigið frá grunni.
-* Útfæra skal allt sem birtist, fyrir utan gefinn `<header>` og `<footer>` með JavaScript DOM aðgerðum. Ekki skal bæta við `index.html`.
-* Þó svo að vefur eigi að vera SPA, þá á að vera hægt að opna beint á `/?category=FLOKKUR` og birta efni
+- Nota skal `JavaScript modules`.
+- Gefinn er grunnur og jsdoc á föllum sem mælt er með að útfæra.
+- Ekki er krafa að nota grunn, skrifa má sitt eigið frá grunni.
+- Útfæra skal allt sem birtist, fyrir utan gefinn `<header>` og `<footer>` með JavaScript DOM aðgerðum. Ekki skal bæta við `index.html`.
+- Þó svo að vefur eigi að vera SPA, þá á að vera hægt að opna beint á `/?category=FLOKKUR` og birta efni
 
 ## Mat
 
-* 20% Snyrtilegur JavaScript kóði, engar eslint villur
-* 20% Single-page app virkni útfærð
-* 30% Gögn sótt frá vefþjónustu, loading state og error state til staðar, cache virkni útfærð
-* 30% Allt viðmót smíðað með JavaScript DOM aðgerðum
+- 20% Snyrtilegur JavaScript kóði, engar eslint villur
+- 20% Single-page app virkni útfærð
+- 30% Gögn sótt frá vefþjónustu, loading state og error state til staðar, cache virkni útfærð
+- 30% Allt viðmót smíðað með JavaScript DOM aðgerðum
 
 ## Sett fyrir
 
@@ -71,12 +71,12 @@ Skila skal í Canvas í seinasta lagi fyrir lok dags fimmtudaginn 11. nóvember 
 
 Skil skulu innihalda:
 
-* Slóð á GitHub repo fyrir verkefni, og dæmatímakennurum skal hafa verið boðið í repo ([sjá leiðbeiningar](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)). Notendanöfn þeirra eru:
-  * `alli959`
-  * `einarpalsson`
-  * `HallurKrist`
-  * `oscar6662`
-  * `thth168`
+- Slóð á GitHub repo fyrir verkefni, og dæmatímakennurum skal hafa verið boðið í repo ([sjá leiðbeiningar](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)). Notendanöfn þeirra eru:
+  - `alli959`
+  - `einarpalsson`
+  - `HallurKrist`
+  - `oscar6662`
+  - `thth168`
 
 ## Einkunn
 
