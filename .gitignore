@@ -25,3 +25,5 @@ yarn-error.log*
 # Mögulegar þýddar skrár fyrir production build
 build/
 dist/
+
+.#*
