@@ -9,7 +9,8 @@
 	"scripts": {
 		"dev": "browser-sync start --server --files main.js **/*.js styles.css index.html",
 		"lint": "eslint ./**/*.js",
-		"prettier": "prettier --write ."
+		"prettier": "prettier --write .",
+		"build": "if ! [ -f build ]; then mkdir build; fi; cp -r index.html styles.css main.js lib/ build/"
 	},
 	"keywords": [],
 	"author": "",
